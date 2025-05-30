@@ -1,0 +1,59 @@
+TR
+📅 İlk Toplantı Özeti – 13.03.2025
+
+İlk ekip toplantımızda projenin genel yönü hakkında fikir alışverişinde bulunduk. Aşağıdaki temel sorular, proje planlama ve geliştirme sürecimizi yönlendirecek:
+
+🔍 Sorduğumuz Sorular:
+1. Ne öğrenmeliyiz?
+2. Hangi teknoloji platformunu kullanmalıyız?
+3. Yapay zekâyı sisteme nasıl entegre ederiz?
+4. Bu konuda daha önce neler yapılmış?
+5. Görüntü tespiti için hangi kütüphane ve algoritmaları kullanırız?
+
+🧠 Araştırma Konuları & Sorumluluklar
+Yukarıdaki her bir soru detaylı olarak araştırılacaktır. Araştırma ve geliştirme sürecimiz şunları içerecektir:
+
+- İş güvenliği standartları ve yaygın risk senaryolarının incelenmesi.
+- Yapay zekâ ve görüntü işleme teknolojilerinin araştırılması.
+- Gerçek dünyadaki iş güvenliği izleme sistemlerinin örneklenmesi.
+- Uygun yazılım platformlarının ve araçlarının belirlenmesi.
+- Kullanılacak yapay zekâ modelleri, kütüphaneler ve algoritmaların belirlenmesi.
+
+🧰 Kullanılacak Teknolojiler (Kararlaştırılacak)
+
+- Programlama Dili: Python  
+- Yapay Zekâ Kütüphaneleri: TensorFlow / PyTorch  
+- Görüntü İşleme: OpenCV, YOLOv5 / YOLOv8  
+- Platform: Web veya masaüstü uygulaması (ör. Flask/Django backend, React frontend)  
+- Veri Seti: Açık kaynak veri setleri veya özel olarak etiketlenmiş güvenlik görselleri
+
+EN
+
+📅 First Meeting Summary – 13.03.2025
+
+During the first team meeting, we discussed the overall direction of the project. The following key questions were asked to guide our planning and development:
+
+🔍 Questions We Asked:
+1. What should we learn?
+2. Which technology platform will we use?
+3. How do we integrate AI into the system?
+4. What has been done about this before?
+5. Which libraries and algorithms will we use for image detection?
+
+
+🧠 Research Topics & Responsibilities
+
+- Understanding workplace safety standards and common hazard scenarios.
+- Researching AI and image detection technologies.
+- Investigating real-world applications of safety monitoring systems.
+- Studying suitable platforms and software frameworks.
+- Identifying appropriate AI models, libraries, and tools.
+
+## 🧰 Technologies (To Be Finalized)
+
+- Programming Language: Python
+- AI Libraries: TensorFlow / PyTorch
+- Image Processing: OpenCV, YOLOv5/YOLOv8
+- Platform: Web or desktop app (e.g., Flask/Django backend, React frontend)
+- Dataset: Public datasets or custom-labeled safety image data
+
